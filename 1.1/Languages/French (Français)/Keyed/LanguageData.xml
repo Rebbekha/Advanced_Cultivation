@@ -25,6 +25,6 @@
   <!-- ===== Tilling ===== -->
 
   <AC.CommandToggleTill>Autoriser Labourage</AC.CommandToggleTill>
-  <AC.CommandToggleTill>Si désactiver les colonistes ne vont pas labourer le champs avant de planter.</AC.CommandToggleTillDesc>
+  <AC.CommandToggleTillDesc>Si désactiver les colonistes ne vont pas labourer le champs avant de planter.</AC.CommandToggleTillDesc>
 
 </LanguageData>
