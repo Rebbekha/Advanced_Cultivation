@@ -18,7 +18,7 @@
   <AC.NoRawCompost>Не содержит сырого компоста</AC.NoRawCompost>
   <AC.FermentProgress>Процесс ферментирования</AC.FermentProgress>
   <AC.FermentationComplete>Ферментация завершена!</AC.FermentationComplete>
-  <AC.FermentProgressSave>процесс ферментации</AC.FermentProgressSave>
+  <AC.FermentProgressSave>процесс_ферментации</AC.FermentProgressSave>
   <AC.Recovering>Восстановление от плохой температуры</AC.Recovering>
   <AC.CompostRuined>{0} был разрышен плохой температурой!</AC.CompostRuined>
   
