@@ -18,13 +18,13 @@
   <AC.NoRawCompost>Contient aucun compost.</AC.NoRawCompost>
   <AC.FermentProgress>Fermentation en cours</AC.FermentProgress>
   <AC.FermentationComplete>Fermentation Terminée!</AC.FermentationComplete>
-  <AC.FermentProgressSave>Progrès de la Fermentation</AC.FermentProgressSave>
+  <AC.FermentProgressSave>Progrès_de_la_Fermentation</AC.FermentProgressSave>
   <AC.Recovering>Restoration du compost (Mauvaise temp) </AC.Recovering>
   <AC.CompostRuined>{0} a tourné à cause de la température</AC.CompostRuined>
   
   <!-- ===== Tilling ===== -->
 
   <AC.CommandToggleTill>Autoriser Labourage</AC.CommandToggleTill>
-  <AC.CommandToggleTill>Si désactiver les colonistes ne vont pas labourer le champs avant de planter.</AC.CommandToggleTillDesc>
+  <AC.CommandToggleTillDesc>Si désactiver les colonistes ne vont pas labourer le champs avant de planter.</AC.CommandToggleTillDesc>
 
 </LanguageData>
